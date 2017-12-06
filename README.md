@@ -16,7 +16,7 @@ Many inhabitants seek to protect their lands from invading forces. A choice few 
 
 Others who seek the stones' power for their own use care little for the resulting ramifications. The world's destruction pales in comparison to the promise of ultimtate control for these characters:
 
-
+![Wraith](https://jegood.github.io/VGDC_RPG_2015/images/characters/wraith_title.png)![Leran](https://jegood.github.io/VGDC_RPG_2015/images/characters/leran_title.png)![ERS](https://jegood.github.io/VGDC_RPG_2015/images/characters/ers_title.png)![Niter](https://jegood.github.io/VGDC_RPG_2015/images/characters/niter_title.png)
 
 ## Gameplay
 *VGDC_RPG_2015* is a Magic-Punk Tactical RPG inspired by the turn-based strategy gameplay of *Fire Emblemm*, *Shining Force*, and *Final Fantasy Tactics*. Two opposing teams each of four units compete on various battlefields for domination. Players assign units elemental stones that modify their base stats, with different elemental types that both buff and debuff particular arttributes.
