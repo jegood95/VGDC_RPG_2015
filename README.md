@@ -4,6 +4,8 @@
 - [The World](#the-world)
 - [Cast and Characters](#cast-and-characters)
 - [Gameplay](#gameplay)
+- [Combat and Controls](#combat-and-controls)
+- [Setup and Support](#setup-and-support)
 - [Credits](#credits)
 
 ## The World
@@ -19,7 +21,37 @@ Others who seek the stones' power for their own use care little for the resultin
 ![Wraith](https://jegood.github.io/VGDC_RPG_2015/images/characters/wraith_title.png)![Leran](https://jegood.github.io/VGDC_RPG_2015/images/characters/leran_title.png)![ERS](https://jegood.github.io/VGDC_RPG_2015/images/characters/ers_title.png)![Niter](https://jegood.github.io/VGDC_RPG_2015/images/characters/niter_title.png)
 
 ## Gameplay
-*VGDC_RPG_2015* is a Magic-Punk Tactical RPG inspired by the turn-based strategy gameplay of *Fire Emblemm*, *Shining Force*, and *Final Fantasy Tactics*. Two opposing teams each of four units compete on various battlefields for domination. Players assign units elemental stones that modify their base stats, with different elemental types that both buff and debuff particular arttributes.
+*VGDC_RPG_2015* is a Magic-Punk Tactical RPG inspired by the turn-based strategy gameplay of *Fire Emblem*, *Shining Force*, and *Final Fantasy Tactics*. Two opposing teams each of four units compete on various battlefields for domination. Players assign units elemental stones that modify their base stats, with different elemental types that both buff and debuff particular arttributes. **Note:** The stone you choose for a player unit becomes the same for its enemy variant (e.g. if the player selected the wind stone for Mittens, then E.R.S. would also get the wind stone).
+
+(stone selection screen pic)
+
+Battles are either **Player vs. Player** or **Player vs. AI**. Challenge your friends in local multiplayer or against the computer in two randomly generated map variants!
+
+(map screen pic)
+
+## Combat and Controls
+Combat operates on an initiative-based unit system. Characters with higher initiatives will move first, so no one team will all act in succession. For each unit, players can either select Move, Attack, Inventory or End. 
+
+(map pic)
+
+**Move** will display the available movement tiles for that unit; select a tile to move to that location. 
+
+(movement pic)
+
+**Attack** displays the available attack tiles, which vary in size between ranged and melee-based units. The **Grenadier** class is a special type of ranged attacker that performs splash damage when a player clicks a tile surrounding multiple units. Damage is calculated as normal at the selected space, and decreasing fallout damage is calculated for each tile farther out.
+
+(attack pic)
+
+**Inventory** lets a player select an item from their current inventory. Select the **Potion** icon to heal for 10 HP.
+
+(heal pic)
+
+**End** Ends the current unit's turn. This additionally applies to attacking or using an item.
+
+Hold the **right-mouse** button and drag to pan the battlefield. You can also zoom in/out using the **mouse scroll wheel** and adjust the graphics settings by pressing **ESC**.
+
+## Setup and Support
+You can download an executable of the game ![here](). If you experience any problems during gameplay, submit a new **Issue** with a short description. We hope you enjoy our game!
 
 ## Credits
 ### Project Management Team
@@ -30,7 +62,7 @@ Others who seek the stones' power for their own use care little for the resultin
 - **Lead Programmer:** Joshua Good
 - **UI Programmer:** Andrew Karcher
 - **Gameplay Programmer:** Jacob Stone
-- **Combat/AI Programmer:** Matthew Meeks
+- **Combat/AI/Graphics Programmer:** Matthew Meeks
 
 ### Design Team
 - **Lead Designer:** Manaka Green
