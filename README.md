@@ -27,24 +27,24 @@ Others who seek the stones' power for their own use care little for the resultin
 
 Battles are either **Player vs. Player** or **Player vs. AI**. Challenge your friends in local multiplayer or against the computer in two randomly generated map variants!
 
-![player-map-selection](https://jegood.github.io/VGDC_RPG_2015/images/game_pics/map_selection.png)
+![player-map-selection](https://jegood.github.io/VGDC_RPG_2015/images/game_pics/map_selection.PNG)
 
 ## Combat and Controls
 Combat operates on an initiative-based unit system. Characters with higher initiatives will move first, so no one team will all act in succession. For each unit, players can either select Move, Attack, Inventory or End. 
 
-![actions](https://jegood.github.io/VGDC_RPG_2015/images/game_pics/actions.png)
+![actions](https://jegood.github.io/VGDC_RPG_2015/images/game_pics/actions.PNG)
 
 **Move** will display the available movement tiles for that unit; select a tile to move to that location. 
 
-![move](https://jegood.github.io/VGDC_RPG_2015/images/game_pics/move.png)
+![move](https://jegood.github.io/VGDC_RPG_2015/images/game_pics/move.PNG)
 
 **Attack** displays the available attack tiles, which vary in size between ranged and melee-based units. The **Grenadier** class is a special type of ranged attacker that performs splash damage when a player clicks a tile surrounding multiple units. Damage is calculated as normal at the selected space, and decreasing fallout damage is calculated for each tile farther out.
 
-![attack](https://jegood.github.io/VGDC_RPG_2015/images/game_pics/attack.png)
+![attack](https://jegood.github.io/VGDC_RPG_2015/images/game_pics/attack.PNG)
 
 **Inventory** lets a player select an item from their current inventory. Select the **Potion** icon to heal for 10 HP.
 
-![Inventory](https://jegood.github.io/VGDC_RPG_2015/images/game_pics/inventory.png)
+![Inventory](https://jegood.github.io/VGDC_RPG_2015/images/game_pics/inventory.PNG)
 
 **End** Ends the current unit's turn. This additionally applies to attacking or using an item.
 
