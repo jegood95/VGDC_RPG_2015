@@ -1,7 +1,10 @@
 # VGDC_RPG_2015: A Magic-Punk Tactical RPG
 
 ## Overview
-(List different sections and their links here)
+- [The World](#the-world)
+- [Cast and Characters](#cast-and-characters)
+- [Gameplay](#gameplay)
+- [Credits](#credits)
 
 ## The World
 Every technology of our world is infused with and maintained by elemental stones. These stones contain incredible powers that, once harnessed, provide the energy necessary to fuel our Magic-Punk society, a Steampunk-inspired environment powered by magic. While the world's inhabitants cannot tap into these powers on their own, they must channel them through special weapons. Some inhabitants seek to use these powers to protect their homelands, while others seek only chaos. Will you choose to defend your home from malicious forces, or let chaos overrun?
