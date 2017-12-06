@@ -12,7 +12,7 @@ Every technology of our world is infused with and maintained by elemental stones
 ## Cast and Characters
 Many inhabitants seek to protect their lands from invading forces. A choice few have risen to gaurd their homes and devote their lives to this cause:
 
-(player sprites here)
+![Azazthariel](https://jegood.github.io/VGDC_RPG_2015/images/characters/cleric_title.png)
 
 Others who seek the stones' power for their own use care little for the resulting ramifications. The world's destruction pales in comparison to the promise of ultimtate control for these characters:
 
