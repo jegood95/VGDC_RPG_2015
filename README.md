@@ -51,7 +51,7 @@ Combat operates on an initiative-based unit system. Characters with higher initi
 Hold the **right-mouse** button and drag to pan the battlefield. You can also zoom in/out using the **mouse scroll wheel** and adjust the graphics settings by pressing **ESC**.
 
 ## Setup and Support
-You can download an executable of the game [here](https://drive.google.com/drive/folders/1Wsf4H77FkUKIoe6mPb-f1JAJbv_HpJPc?usp=sharing). If you experience any problems during gameplay, submit a new **Issue** with a short description. We hope you enjoy our game!
+You can download the game [here](https://drive.google.com/drive/folders/1Wsf4H77FkUKIoe6mPb-f1JAJbv_HpJPc?usp=sharing). Unzip the file and double-click the *VGDC_RPG_2015* executable to play. If you experience any problems during gameplay, submit a new **Issue** with a short description. We hope you enjoy our game!
 
 ## Credits
 ### Project Management Team
