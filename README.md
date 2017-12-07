@@ -62,6 +62,7 @@ You can download the game [here](https://drive.google.com/drive/folders/1Wsf4H77
 - **Lead Programmer:** Joshua Good
 - **UI Programmer:** Andrew Karcher
 - **Gameplay Programmer:** Jacob Stone
+- **Gameplay Programmer:** Alex Sawicki
 - **Combat/AI/Graphics Programmer:** Matthew Meeks
 
 ### Design Team
@@ -70,3 +71,4 @@ You can download the game [here](https://drive.google.com/drive/folders/1Wsf4H77
 
 ### Art Team
 - **Lead Artist:** Kimberly Ramos
+- **Animator/Environment Artist:** Jennifer Liu
