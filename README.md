@@ -67,7 +67,7 @@ You can download the game [here](https://drive.google.com/drive/folders/1Wsf4H77
 
 ### Design Team
 - **Lead Designer:** Manaka Green
-- **Level/Combat Desinger:** Will Payne
+- **Level/Combat Designer:** Will Payne
 
 ### Art Team
 - **Lead Artist:** Kimberly Ramos
